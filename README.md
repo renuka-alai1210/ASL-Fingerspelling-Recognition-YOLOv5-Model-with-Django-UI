@@ -42,6 +42,12 @@ Z - 30
 
 ![image](https://github.com/renuka-alai1210/ASL-Fingerspelling-Recognition-YOLOv5-Model-with-Django-UI/assets/55275843/88a22af0-e644-4052-9f75-e6489af83b1b)
 
+# Django-UI
+![Screenshot from 2023-06-23 17-01-02](https://github.com/renuka-alai1210/ASL-Fingerspelling-Recognition-YOLOv5-Model-with-Django-UI/assets/55275843/85836af9-c063-43a5-a9df-db745589e9cc)
+
+![Screenshot from 2023-06-23 17-01-35](https://github.com/renuka-alai1210/ASL-Fingerspelling-Recognition-YOLOv5-Model-with-Django-UI/assets/55275843/e479569f-6b02-4399-9b86-9d91b984cb5a)
+
+
 # Video Findings:
 https://github.com/renuka-alai1210/ASL-Fingerspelling-Recognition-YOLOv5-Model-with-Django-UI/assets/55275843/f2242fda-fd86-4ee3-a56c-c9a68ac4478b
 
