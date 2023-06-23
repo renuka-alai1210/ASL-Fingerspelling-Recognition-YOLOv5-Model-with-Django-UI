@@ -35,7 +35,8 @@ X - 26
 Y - 26
 Z - 30
 
-file:///home/indianic/Pictures/Screenshot%20from%202023-06-23%2016-56-07.png
+![Screenshot from 2023-06-23 16-56-07](https://github.com/renuka-alai1210/ASL-Fingerspelling-Recognition-YOLOv5-Model-with-Django-UI/assets/55275843/a7708aa4-c135-449a-9e33-83df12fa6c94)
+
 
 # Inference :
 
